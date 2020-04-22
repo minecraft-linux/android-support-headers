@@ -28,6 +28,7 @@
 
 #include <sys/cdefs.h>
 #include <sys/types.h>
+#include "compat.h"
 
 #ifdef __cplusplus
 extern "C" {
